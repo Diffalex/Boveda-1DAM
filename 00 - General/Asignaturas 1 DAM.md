@@ -7,6 +7,10 @@ asignatura: general
 
 # Asignaturas 1 DAM
 
+## Guía de colaboración
+
+- [[GUIA_CLASE]] — cómo clonar, configurar Obsidian y compartir apuntes con la clase
+
 ## Asignaturas
 
 - [[_Índice Bases de datos|Bases de datos]]
