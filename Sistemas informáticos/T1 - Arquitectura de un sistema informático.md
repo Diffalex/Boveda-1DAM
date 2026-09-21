@@ -38,11 +38,14 @@ Compuesto por tres unidades principales:
 
 Las unidades se comunican mediante **buses del sistema**:
 
-| Tipo de bus | Función |
-|---|---|
-| **Bus de instrucciones** | Transmite instrucciones |
-| **Bus de datos** | Transmite datos |
-| **Bus de direcciones** | Accede a memorias indicando dirección (lectura/escritura) |
+| Tipo de bus              | Función                                                   |
+| ------------------------ | --------------------------------------------------------- |
+| **Bus de instrucciones** | Transmite instrucciones                                   |
+| **Bus de datos**         | Transmite datos                                           |
+| **Bus de direcciones**   | Accede a memorias indicando dirección (lectura/escritura) |
+
+> [!info] Ampliación
+> Detalle completo (origen, programa almacenado, ciclo de instrucción y cuello de botella) en [[T1 - Modelo de Von Neumann|Modelo de Von Neumann]].
 
 ### Modelo de Harvard
 

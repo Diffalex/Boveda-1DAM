@@ -10,6 +10,8 @@ asignatura: Sistemas informáticos
 ## Tema 1 — Fundamentos de los sistemas informáticos y máquinas virtuales
 
 - [[T1 - Arquitectura de un sistema informático|Arquitectura e introducción]]
+- [[T1 - Modelo de Von Neumann|Modelo de Von Neumann]]
+- [[T1 - Preguntas y respuestas Von Neumann|Preguntas y respuestas Von Neumann]]
 - [[T1 - Componentes hardware|Componentes hardware]]
 - [[T1 - Componentes software y arranque|Componentes software y proceso de arranque (POST)]]
 - [[T1 - Máquinas virtuales y VirtualBox|Máquinas virtuales y VirtualBox]]
