@@ -1,0 +1,5 @@
+supuesto tienda
+
+se desea informatizar la gestion de una tienda informatica. la tienda dispone de una serie de productos que se pueden vender a los clientes-
+
+De cada producto informatico se desea guardar el codigo, descripcion, precio y numero de existencias. De cada cliente se desea guardar el codigo, nombre, apellidos, direccion y numero de telefono. un cliente puede comprar varios productos en la tienda y un mismo producto puede ser comprado por varios clientes. Cada vez que se compre un articulo quedara regustrada la compra en la base de datos junto con la fecha en la que se ha comprado el articulo. la tienda tiene contactos con varios proveedores que son los que suministran los productos. un mismo producto puede ser suministrado por varios proveedores. de cada proveedor se desea guardar el codigo,nombre,apellidos,direccion,provincia y numero de telefono. 

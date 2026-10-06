@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<libros>
+    <libro ISBN="9788419743442">
+        <autores>
+            <autor>RAFAL KOSIK</autor>
+        </autores>
+        <titulo>Cyberpunk 2077: No hay coincidencias</titulo>
+        <editorial>Roca Editorial</editorial>
+        <precio>22.70</precio>
+        <num_paginas>416</num_paginas>
+    </libro>
+    
+     <libro ISBN="9788439747550">
+        <autores>
+            <autor>Philip K. Dick</autor>
+        </autores>
+        <titulo>¿Sueñan los androides con ovejas eléctricas?</titulo>
+        <editorial>Random House</editorial>
+        <precio>22.70</precio>
+        <num_paginas>320</num_paginas>
+    </libro>
+    
+    <libro ISBN="9788466356169">
+        <autores>
+            <autor>Albert Camus</autor>
+        </autores>
+        <titulo>El hombre rebelde</titulo>
+        <editorial>Debolsillo</editorial>
+        <precio>13.25</precio>
+        <num_paginas>384</num_paginas>
+    </libro>
+    
+    <libro ISBN="9788494709203">
+        <autores>
+            <autor>Sun Tzu</autor>
+        </autores>
+        <titulo>El arte de la guerra</titulo>
+        <editorial>Dojo Ediciones</editorial>
+        <precio>8.07</precio>
+        <num_paginas>98</num_paginas>
+    </libro>
+</libros>
+

@@ -11,10 +11,23 @@ asignatura: Sistemas informáticos
 
 - [[T1 - Arquitectura de un sistema informático|Arquitectura e introducción]]
 - [[T1 - Modelo de Von Neumann|Modelo de Von Neumann]]
-- [[T1 - Preguntas y respuestas Von Neumann|Preguntas y respuestas Von Neumann]]
+- [[Sistemas informáticos/Ejercicios/T1 - Preguntas y respuestas Von Neumann|Preguntas y respuestas Von Neumann]] *(en `Ejercicios/`)*
 - [[T1 - Componentes hardware|Componentes hardware]]
+- [[T1 - Memorias y velocidad de almacenamiento|Memorias y velocidad de almacenamiento]]
+- [[T1 - Procesadores y rendimiento|Procesadores y rendimiento]]
 - [[T1 - Componentes software y arranque|Componentes software y proceso de arranque (POST)]]
 - [[T1 - Máquinas virtuales y VirtualBox|Máquinas virtuales y VirtualBox]]
+
+## Ejercicios
+
+- [[Sistemas informáticos/Ejercicios/Cuestionario de conocimientos previos|Cuestionario de conocimientos previos (test resuelto)]] *(en `Ejercicios/`)*
+- [[Sistemas informáticos/Ejercicios/UD1 - Conectores y dispositivos|Conectores y dispositivos (tabla resuelta)]] *(en `Ejercicios/`, fuente en `Anexos/`)*
+- [[Sistemas informáticos/Ejercicios/T1 - Problemas de procesadores|Problemas de procesadores (pendiente)]] *(en `Ejercicios/`, fuente en `Anexos/`)*
+- [[Sistemas informáticos/Ejercicios/UD1 - Arranque y configuración de dispositivos|Arranque y configuración de dispositivos (pendiente)]] *(en `Ejercicios/`, fuente en `Anexos/`)*
+
+## Evaluación del módulo
+
+- [[_Programación didáctica SI|Programación didáctica del módulo]] — RA, dual y fechas de evaluación
 
 ## Tema 2 — Sistemas operativos: introducción
 

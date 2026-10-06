@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tienda>
+    <productos>
+        <producto>
+            <codigo></codigo>
+            <descripcion></descripcion>
+            <precio></precio>
+            <existencias></existencias>
+        </producto>
+    </productos>
+
+    <clientes>
+        <cliente>
+            <codigo></codigo>
+            <nombre></nombre>
+            <apellidos></apellidos>
+            <direccion></direccion>
+            <telefono></telefono>
+        </cliente>
+    </clientes>
+
+    <compras>
+        <compra>
+            <codigo_cliente></codigo_cliente>
+            <codigo_producto></codigo_producto>
+            <fecha></fecha>
+        </compra>
+    </compras>
+
+    <proveedores>
+        <proveedor>
+            <codigo></codigo>
+            <nombre></nombre>
+            <apellidos></apellidos>
+            <direccion></direccion>
+            <provincia></provincia>
+            <telefono></telefono>
+        </proveedor>
+    </proveedores>
+</tienda>

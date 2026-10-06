@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pacientes>
+      <paciente>
+        <nombre>Alejandro</nombre>
+        <apellidos>Escobar Valero</apellidos>
+        <dni>54462437R</dni>
+        <direccion>Cmno chozas, 41</direccion>
+        <poblacion>Matagorda</poblacion>
+        <provincia>Almeria</provincia>
+        <codigo_postal>04715</codigo_postal>
+        <telefono>688235745</telefono>
+        <fecha_nacimiento>23/11/2001</fecha_nacimiento>
+    </paciente>
+       <paciente>
+        <nombre>Paco</nombre>
+        <apellidos>Sevilla García</apellidos>
+        <dni>12345678Z</dni>
+        <direccion>Calle Mayor 15, 3ºB</direccion>
+        <poblacion>Valencia</poblacion>
+        <provincia>Valencia</provincia>
+        <codigo_postal>46001</codigo_postal>
+        <telefono>612345678</telefono>
+        <fecha_nacimiento>23/04/1999</fecha_nacimiento>
+    </paciente>
+      <paciente>
+        <nombre>Manolo</nombre>
+        <apellidos>Sánchez Peralta</apellidos>
+        <dni>54422235F</dni>
+        <direccion>Calle Lobero, 15</direccion>
+        <poblacion>El Ejido</poblacion>
+        <provincia>Almería</provincia>
+        <codigo_postal>04710</codigo_postal>
+        <telefono>722331242</telefono>
+        <fecha_nacimiento>17/12/1980</fecha_nacimiento>
+    </paciente>
+   
+    
+</pacientes>
+

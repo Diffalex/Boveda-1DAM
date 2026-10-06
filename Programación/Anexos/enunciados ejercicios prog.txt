@@ -1,0 +1,19 @@
+// Pide al usuario que ingrese su nombre y luego muéstrale un saludo personalizado.
+// Solicita un año de nacimiento y calcula la edad aproximada de la persona.
+// Pide dos números y muestra su suma, resta, multiplicación y división.
+// Lee el precio de un producto y calcula el precio final con un 21% de IVA.
+// Ingresa el radio de un círculo y calcula su área (A=π⋅r2) y circunferencia (C=2⋅π⋅r).
+// Convierte una cantidad de euros a dólares. Pídele al usuario que ingrese la cantidad en euros y el tipo de cambio que se aplica en ese momento.
+// Convierte una temperatura de grados Celsius a Fahrenheit (F=C⋅9/5+32).
+// Pide una cantidad de metros y conviértela a kilómetros, centímetros y milímetros.
+// Convierte una cantidad de segundos a horas, minutos y segundos.
+// Ingresa una distancia en millas y conviértela a kilómetros.
+// Pide la base y la altura de un triángulo y calcula su área (A=½​⋅b⋅h).
+// Lee tres calificaciones de un estudiante y calcula su promedio final.
+// Calcula el área de un trapecio conociendo la base mayor, la base menor y la altura (A=½​⋅(b1​+b2​)⋅h).
+// Pide la longitud de los tres lados de un triángulo y calcula su perímetro.
+// Lee un número de dos cifras y muestra la suma de sus dígitos.
+// Pide un valor en segundos y calcula cuántos días completos, horas, minutos y segundos son. Ejemplo: 90010 segundos son 1 día, 1 hora, 0 minutos y 10 segundos.
+// Solicita el total de una compra y un porcentaje de descuento, y calcula el precio final.
+// Lee el precio de un producto, la cantidad comprada y el porcentaje de impuestos que es necesario aplicar, y calcula el total a pagar.
+// Pide tres notas de exámenes y tres porcentajes de ponderación para cada nota. Calcula la nota final ponderada.

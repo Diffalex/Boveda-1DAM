@@ -112,6 +112,8 @@ Transforma la corriente alterna externa en los voltajes necesarios para el equip
 
 ## Ver también
 
+- [[T1 - Memorias y velocidad de almacenamiento|Memorias y velocidad]] — escala de medidas, MT/s, comparativa HDD/SSD
+- [[T1 - Procesadores y rendimiento|Procesadores y rendimiento]] — velocidad de cómputo y caché
 - [[T1 - Arquitectura de un sistema informático|Arquitectura]] — Von Neumann, buses
 - [[T1 - Componentes software y arranque|Software y arranque]] — qué hace el software con el hardware
 - [[T1 - Máquinas virtuales y VirtualBox|VirtualBox]] — cómo se virtualiza el hardware

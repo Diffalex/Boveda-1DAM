@@ -7,11 +7,14 @@ asignatura: Entornos de desarrollo
 
 # Entornos de desarrollo
 
-> **Estado:** Pendiente de contenido — añadir apuntes a medida que avancen las clases.
+## UD1 — Introducción
 
-## Notas
+- [[UD1 - Cuestiones previas|Cuestiones previas]] — perfil del alumno y motivaciones (fuente en `Anexos/`)
+- [[Entornos de desarrollo/Ejercicios/UD1 - ED01 Actividades|ED01. Actividades de la Unidad 1]] — cuestionario pendiente *(en `Ejercicios/`)*
 
-*(Ninguna todavía)*
+## Unidades previstas
+
+*(por completar a medida que avancen las clases)*
 
 ---
 

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE curriculum>
+
+<curriculum>
+    <datos_persona>
+        <nombre></nombre>
+        <apellidos></apellidos>
+        <residencia>
+            <cidudad></cidudad>
+            <pais></pais>
+        </residencia>
+    </datos_persona>
+    
+    <datos_contacto>
+        <telefono></telefono>
+        <correo_electronico></correo_electronico>
+        <perfil_linkedin></perfil_linkedin>
+    </datos_contacto>
+    
+    <descripcion>
+        <competencias>
+            <nombre></nombre>
+            <nivel></nivel>
+        </competencias>
+        <formacion_academica>
+            <titulacion></titulacion>
+            <centro_formacion></centro_formacion>
+            <año_titulacion></año_titulacion>
+        </formacion_academica>
+        <experiencia_prof>
+            <puestos_previos>
+                <puesto>
+                    <empresa></empresa>
+                    <año_inicio></año_inicio>
+                    <año_fin></año_fin>
+                </puesto>
+            </puestos_previos>
+        </experiencia_prof>
+    </descripcion>
+    
+</curriculum>
+

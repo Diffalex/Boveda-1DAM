@@ -17,8 +17,10 @@ asignatura: general
 - [[_Índice Digitalización|Digitalización]]
 - [[_Índice Entornos de desarrollo|Entornos de desarrollo]]
 - [[_Índice Lenguajes de marcas|Lenguajes de marcas]]
+- [[_Índice Prevención de riesgos laborales|Prevención de riesgos laborales]]
 - [[_Índice Programación|Programación]]
 - [[_Índice Sistemas informáticos|Sistemas informáticos]]
+- [[_Índice Sostenibilidad|Sostenibilidad]]
 
 ## Relaciones entre asignaturas
 

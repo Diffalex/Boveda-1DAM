@@ -63,6 +63,21 @@ teclado.nextLine(); // descarta el \n pendiente
 String ciudad = teclado.nextLine();
 ```
 
+## Cerrar el Scanner — `close()`
+
+El Scanner es como una *puerta* entre el teclado y el programa: todo lo que el usuario escribe entra por ella. Cuando ya no vamos a leer nada más, esa puerta se cierra con `teclado.close();`.
+
+```java
+teclado.close(); // se pone al final, cuando ya hemos leído todo
+```
+
+**¿Es obligatorio?** En programas pequeños no pasa nada grave si se olvida: al terminar el programa el ordenador cierra solo lo que ha quedado abierto. Aun así siempre lo cerramos, porque:
+- Es una **buena costumbre**: al leer ficheros con Scanner, olvidar `close()` sí puede dar problemas.
+- **Es lo que espera** cualquier programador que lea tu código.
+
+> [!note] Fuente
+> Anexo V — *El Scanner y `close()`* (cómo abrir y cerrar correctamente la lectura del teclado): `Anexos/Anexo V. El Scanner y close().pdf`.
+
 ## Ver también
 
 - [[UD1 - Comentarios y salida por consola|Salida por consola]] — `System.out.println()` y `print()`

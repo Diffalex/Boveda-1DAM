@@ -77,12 +77,12 @@ Un computador es de arquitectura Von Neumann cuando:
 
 La UC va extrayendo y ejecutando instrucciones de memoria una tras otra:
 
-| Fase | Qué ocurre |
-|---|---|
-| **Buscar (fetch)** | Se lee de memoria la instrucción apuntada por el **contador de programa (PC)** |
-| **Decodificar (decode)** | Se interpreta la instrucción y se calculan las direcciones de los operandos |
-| **Ejecutar (execute)** | Se extraen los operandos y se realiza la operación (p. ej. en la UAL) |
-| **Almacenar (store)** | Se guarda el resultado y se actualiza el PC (posible salto) |
+| Fase                     | Qué ocurre                                                                     |
+| ------------------------ | ------------------------------------------------------------------------------ |
+| **Buscar (fetch)**       | Se lee de memoria la instrucción apuntada por el **contador de programa (PC)** |
+| **Decodificar (decode)** | Se interpreta la instrucción y se calculan las direcciones de los operandos    |
+| **Ejecutar (execute)**   | Se extraen los operandos y se realiza la operación (p. ej. en la UAL)          |
+| **Almacenar (store)**    | Se guarda el resultado y se actualiza el PC (posible salto)                    |
 
 ## Cuello de botella de Von Neumann
 
