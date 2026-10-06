@@ -11,14 +11,9 @@ tema: Modelo Entidad-Relación
 
 # UD2 — Modelo Entidad-Relación (E/R)
 
-Fuente: material `tema2-main.zip` (`Bases de datos/Anexos/`). Tema: interpretación de diagramas E/R, paso a tablas y normalización.
+Fuente: material `tema2-main.zip` (`Bases de datos/Anexos/`). Tema: interpretación de diagramas E/R y modelado conceptual.
 
-> [!info] Contenido del tema
-> 1. Introducción
-> 2. Modelado de datos y diagramas E/R
-> 3. Conversión de diagramas E/R a tablas
-> 4. Normalización de bases de datos
-> Se irá publicando a lo largo del curso.
+La **conversión de diagramas E/R a tablas** y la **normalización** se tratan en [[UD3 - Paso a tablas y normalización]].
 
 ## Modelado de datos
 
@@ -103,9 +98,11 @@ Version avanzada del diagrama E/R para representar **herencia**, **generalizaci�
 - **Herencia** — la entidad hija hereda atributos y relaciones de la entidad padre (p. ej. "Persona" → "Profesor" y "Estudiante"). Puede ser **total** o **parcial**.
 - **Generalización** — proceso de abstracción: identificar características comunes de varias entidades hijas y agruparlas en una entidad padre.
 - **Especialización** — proceso de refinamiento: identificar características específicas y crear subentidades.
-- **Parcialidad/totalización** — generalización **parcial** (línea discontinua: no todas las hijas en la padre + atributos propios) o **total** (círculo: todas las hijas compartidas).
-- **Solapamiento** — una entidad hija puede pertenecer a más de una entidad padre (con solapamiento / sin solapamiento).
-- **Exclusividad** — exclusiva (una hija solo en una padre) o no exclusiva.
+
+> [!note] Notación de propiedades (símbolos en el triángulo)
+> - **Parcialidad**: generalización/specialización **parcial** → línea discontinua hacia el triángulo (no todas las entidades padre tienen hijas); **total** → todas las hijas participan.
+> - **Solapamiento**: una entidad hija puede pertenecer a **más de una entidad padre** → símbolo **círculo**; **sin solapamiento** → las hijas pertenecen a una única padre.
+> - **Exclusividad**: **exclusiva** (una hija solo en una padre) → **línea recta**; **no exclusiva** (una hija en varias padre) → **línea curvada**.
 
 ## Ejercicios (del tema)
 
@@ -118,6 +115,7 @@ Version avanzada del diagrama E/R para representar **herencia**, **generalizaci�
 
 - [[UD1 - Almacenamiento de datos y SGBD|Almacenamiento, ficheros y SGBD]] — base de la unidad anterior
 - [[UD1 - Ficheros y formatos|Ficheros y formatos]]
+- [[UD3 - Paso a tablas y normalización|Paso a tablas y normalización]] — conversión E/R a tablas y formas normales
 - [[_Índice Bases de datos]]
 
 ---

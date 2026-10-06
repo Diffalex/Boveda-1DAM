@@ -22,11 +22,16 @@ asignatura: Bases de datos
 
 > Fuente en `Anexos/`: `tema2-main.zip`.
 
+### UD3 — Paso a tablas y normalización
+
+- [[UD3 - Paso a tablas y normalización|Paso a tablas y normalización]] — modelo relacional, conversión E/R a tablas (1:1, 1:N, N:M, casos especiales) y formas normales (1FN-3FN).
+
+> Fuente en `Anexos/`: `tema2-main.zip`.
+
 ## Unidades previstas
 
 | Unidad | Temas |
 |--------|-------|
-| UD3 | Conversión E/R a tablas y normalización |
 | UD4 | Lenguaje SQL |
 | UD5 | Administración y mantenimiento |
 
