@@ -7,3 +7,5 @@
 # Web generada: se publica vía GitHub Actions, no se trackea en main
 web/*
 !web/build_web.py
+!web/assets/
+!web/assets/**
