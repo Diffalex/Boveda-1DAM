@@ -10,7 +10,7 @@ tema: Conceptos básicos de PRL
 
 # UD1 — Prevención de Riesgos Laborales: conceptos básicos
 
-**RA-2 Seguridad y salud laboral — PRL** (fuente: `Anexos/IPE 1 LA PREVENCION DE RIESGOS CONCEPTOS BASICOS-RGJ .pptx`).
+**RA-2 Seguridad y salud laboral — PRL** (fuente: presentación de clase `IPE 1 LA PREVENCION DE RIESGOS CONCEPTOS BASICOS-RGJ .pptx`, en `/home/alex/Documentos/` — no incluida en la bóveda).
 
 ## Legibilidad
 

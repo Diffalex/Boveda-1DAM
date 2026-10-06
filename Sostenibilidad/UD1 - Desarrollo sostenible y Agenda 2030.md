@@ -11,7 +11,7 @@ tema: Desarrollo sostenible, Agenda 2030 y ODS
 
 # UD1 — Desarrollo sostenible y Agenda 2030
 
-Unidad didáctica 1: *Del desarrollo sostenible a la sostenibilidad* (fuente: `Anexos/Presentacion aula Unidad 1 ok (2).ppsx`).
+Unidad didáctica 1: *Del desarrollo sostenible a la sostenibilidad* (fuente: presentación de clase `Presentacion aula Unidad 1 ok (2).ppsx`, en `/1 DAM/Sostenibilidad/` — no incluida en la bóveda).
 
 ## Contenidos
 

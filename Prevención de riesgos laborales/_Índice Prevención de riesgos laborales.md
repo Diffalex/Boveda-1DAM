@@ -11,7 +11,7 @@ asignatura: Prevención de Riesgos Laborales
 
 - [[Prevención de riesgos laborales/UD1 - Conceptos básicos de PRL|Conceptos básicos de PRL]] — salud, daños, factores de riesgo y medidas de prevención/protección
 
-> Fuente en `Anexos/`: *IPE 1 LA PREVENCION DE RIESGOS CONCEPTOS BASICOS-RGJ .pptx*.
+> Fuente (no incluida en la bóveda): presentación `IPE 1 LA PREVENCION DE RIESGOS CONCEPTOS BASICOS-RGJ .pptx` en `/home/alex/Documentos/`.
 
 ## Unidades previstas
 

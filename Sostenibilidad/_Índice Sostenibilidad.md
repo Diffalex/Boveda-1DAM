@@ -11,7 +11,7 @@ asignatura: Sostenibilidad
 
 - [[Sostenibilidad/UD1 - Desarrollo sostenible y Agenda 2030|Desarrollo sostenible y Agenda 2030]] — historia, sistema productivo, huella ecológica, ODS
 
-> Fuente en `Anexos/`: *Presentacion aula Unidad 1 ok (2).ppsx*.
+> Fuente (no incluida en la bóveda): presentación `Presentacion aula Unidad 1 ok (2).ppsx` en `/1 DAM/Sostenibilidad/`.
 
 ## Unidades previstas
 

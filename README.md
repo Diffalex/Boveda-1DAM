@@ -135,14 +135,14 @@ Prefijo: `UD`. UD1 (ficheros, almacenamiento y SGBD) y UD2 (modelo E-R) iniciada
 | Nota | Contenido |
 |---|---|
 | `_Índice Prevención de riesgos laborales.md` | Índice de la asignatura |
-| `UD1 - Conceptos básicos de PRL.md` | RA-2 Seguridad y salud laboral: salud, daños, factores de riesgo, medidas de prevención/protección, riesgo eléctrico/incendio, agentes físicos/químicos/biológicos. Fuente: `Anexos/IPE 1 LA PREVENCION DE RIESGOS...pptx` (nueva) |
+| `UD1 - Conceptos básicos de PRL.md` | RA-2 Seguridad y salud laboral: salud, daños, factores de riesgo, medidas de prevención/protección, riesgo eléctrico/incendio, agentes físicos/químicos/biológicos. Fuente (no en bóveda): presentación `IPE 1 LA PREVENCION DE RIESGOS...pptx` (nueva) |
 
 ### 4.7 Sostenibilidad — nueva (módulo transversal)
 
 | Nota | Contenido |
 |---|---|
 | `_Índice Sostenibilidad.md` | Índice de la asignatura |
-| `UD1 - Desarrollo sostenible y Agenda 2030.md` | Contexto histórico, sistema productivo y globalización, huella ecológica, desarrollo sostenible, marcos internacionales y ODS. Fuente: `Anexos/Presentacion aula Unidad 1 ok (2).ppsx` (nueva) |
+| `UD1 - Desarrollo sostenible y Agenda 2030.md` | Contexto histórico, sistema productivo y globalización, huella ecológica, desarrollo sostenible, marcos internacionales y ODS. Fuente (no en bóveda): presentación `Presentacion aula Unidad 1 ok (2).ppsx` (nueva) |
 
 ### 4.8 Digitalización — ⚠️ PENDIENTE
 - Solo `_Índice Digitalización.md` (estado: pendiente).
@@ -175,7 +175,7 @@ subtema: Modelo de Von Neumann
 8. **Tablas** para comparativas, solucionarios y datos estructurados.
 9. **Bloques de código** con fence (```` ```java ````, ```` ```xml ````, ``text``, `bash`…) para ejemplos.
 10. **Subcarpeta `Ejercicios/`**: prácticas, trabajos y tests **resueltos** (tags `ejercicios`, `trabajo`, `preguntas`, `test`).
-11. **Subcarpeta `Anexos/`**: PDFs/docx fuente de las notas. **Solo versiones resueltas/rellenas.**
+11. **Subcarpeta `Anexos/`**: PDFs/docx fuente de las notas. **Solo versiones resueltas/rellenas.** ⚠️ **NO se añaden presentaciones (`.ppsx`/`.pptx`)**: pesan mucho; se citan como fuente externa con su ruta y no se copian.
 12. **Notas de referencia/transversales** con `_` inicial (p. ej. `_Programación didáctica SI.md`).
 
 ## 6. Taxonomía de tags
@@ -216,4 +216,5 @@ subtema: Modelo de Von Neumann
 - **Programación (4ª pasada):** ampliada UD2 con bucles y `switch` → nuevas notas `UD2 - Bucles (while, do-while, for).md` y `UD2 - Selección múltiple (switch).md` + `Ejercicios/UD2 - Ejemplos bucles y switch.md` (5 programas resueltos; `EjercicioBucles1` pendiente).
 - **Lenguajes de marcas:** corregido `tienda.xml` (estaba mal formado) → nueva `Ejercicios/UD1 - Supuesto tienda (XML).md` **a modo plantilla** (sin datos: `tienda.xml`, `curriculum.xml`) + `Anexos/supuesto tienda.txt`.
 - **Sistemas informáticos:** nuevas `T1 - Memorias y velocidad de almacenamiento.md` y `T1 - Procesadores y rendimiento.md` + `Ejercicios/T1 - Problemas de procesadores.md` y `Ejercicios/UD1 - Arranque y configuración de dispositivos.md` (ambos pendientes); 4 fuentes nuevas en `Anexos/` (`memorias.pdf`, `problemas_procesadores.pdf`, `Esquema_memorias.jpg`, `UD1_Arranque_Configuracion_Dispositivos.docx`).
+- **Convención de `Anexos/`:** ya no se añaden presentaciones (`.ppsx`/`.pptx`). Eliminadas `Sostenibilidad/Anexos/Presentacion aula Unidad 1 ok (2).ppsx` y `Prevención de riesgos laborales/Anexos/IPE 1 ... .pptx` (se citan como fuente externa).
 - Si ves algo nuevo en la bóveda que no está reflejado aquí, actualiza este README.
