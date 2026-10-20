@@ -1,6 +1,6 @@
 ---
 tags:
-  - lenguajes-marcas
+  - lenguajes-de-marcas
   - xml
   - ud1
   - ejercicios
@@ -88,8 +88,9 @@ Plantilla de currículum vitae en XML (datos de persona, contacto, competencias,
 
 ## Ver también
 
-- [[Lenguajes de marcas/Ejercicios/UD1 - Ejemplos XML|Ejemplos XML]] — ficheros resueltos (Biblioteca y Clínica)
+- [[Lenguajes de marcas/Ejercicios/UD1 - Ejemplos XML|Documentos XML del curso]] — ficheros resueltos y plantillas
 - [[Lenguajes de marcas/UD1 - Atributos en XML|Atributos en XML]] — teoría de atributos vs elementos
+- [[Lenguajes de marcas/UD1 - DTD (validación de XML)|Validación con DTD]] — definir las reglas de `tienda.xml`
 - [[Lenguajes de marcas/Ejercicios/UD1 - Actividad presencial 3 (agencia de turismo)|Actividad presencial 3 (agencia de turismo)]] — otro supuesto pendiente a modo plantilla
 - [[_Índice Lenguajes de marcas|Índice de Lenguajes de marcas]]
 

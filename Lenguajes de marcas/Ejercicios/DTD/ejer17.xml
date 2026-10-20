@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    Jugadores y equipos de futbol
+    futbol contiene jugador o equipo 0, 1 o más veces
+    jugador es un elemento vacío
+    equipo es un elemento vacío
+    El atributo jugadores de equipo al ser de tipo IDREFS, almacena una lista de referencias
+    que, en este caso, hacen referencia a valores ID de jugadores, indicando con esto 
+    qué jugadores pertenecen a un equipo.
+-->
+<!DOCTYPE futbol [
+  <!ELEMENT futbol ((jugador|equipo)*)>
+  <!ELEMENT jugador EMPTY>
+  <!ATTLIST jugador nombre NMTOKENS #REQUIRED>
+  <!ATTLIST jugador codigo ID #REQUIRED>
+  <!ELEMENT equipo EMPTY>
+  <!ATTLIST equipo nombre CDATA #REQUIRED>
+  <!ATTLIST equipo jugadores IDREFS #IMPLIED>
+]>
+
+<futbol>
+  <jugador nombre="Alfredo Di Stéfano" codigo="ads"/>
+  <jugador nombre="Edison Arantes do Nascimento" codigo="ean" />
+  <jugador nombre="Diego Armando Maradona" codigo="dam" />
+  <jugador nombre="Johan Cruyff" codigo="jc" />
+  <equipo nombre="Società Sportiva Calcio Napoli" jugadores="dam" />
+  <equipo nombre="Futbol Club Barcelona" jugadores="jc dam" />
+</futbol>
+

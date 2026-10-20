@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instituto>
+<instituto>
+    <profesores>
+        <profesor DNI="">
+            <nombre></nombre>
+            <direccion></direccion>
+            <telefono></telefono>
+            <modulos_impartidos>
+                <modulo Codigo=""></modulo>
+            </modulos_impartidos>
+        </profesor>
+        <profesor DNI="">
+            <nombre></nombre>
+            <direccion></direccion>
+            <telefono></telefono>
+            <modulos_impartidos>
+                <modulo Codigo=""></modulo>
+            </modulos_impartidos>
+        </profesor>
+        <profesor DNI="">
+            <nombre></nombre>
+            <direccion></direccion>
+            <telefono></telefono>
+            <modulos_impartidos>
+                <modulo Codigo=""></modulo>
+            </modulos_impartidos>
+        </profesor>
+    </profesores>
+
+    <modulos>
+      <modulo Codigo="">
+            <nombre></nombre>
+      </modulo>
+      <modulo Codigo="">
+            <nombre></nombre>
+      </modulo>
+      <modulo Codigo="">
+            <nombre></nombre>
+        </modulo>
+    </modulos>
+
+    <alumnos>
+        <alumno Expediente="">
+            <nombre></nombre>
+            <apellidos></apellidos>
+            <fecha_nacimiento></fecha_nacimiento>
+            <modulos_matriculados>
+                <modulo Codigo=""></modulo>
+            </modulos_matriculados>
+        </alumno>
+        <alumno Expediente="">
+            <nombre></nombre>
+            <apellidos></apellidos>
+            <fecha_nacimiento></fecha_nacimiento>
+            <modulos_matriculados>
+                <modulo Codigo=""></modulo>
+            </modulos_matriculados>
+        </alumno>
+        <alumno Expediente="">
+            <nombre></nombre>
+            <apellidos></apellidos>
+            <fecha_nacimiento></fecha_nacimiento>
+            <modulos_matriculados>
+                <modulo Codigo=""></modulo>
+            </modulos_matriculados>
+        </alumno>
+    </alumnos>
+
+    <cursos>
+        <curso Nombre="">
+            <delegado Expediente=""></delegado>
+            <grupo>
+                <alumno Expediente=""></alumno>
+                <alumno Expediente=""></alumno>
+            </grupo>
+        </curso>    
+        <curso Nombre="">
+            <delegado Expediente=""></delegado>
+            <grupo>
+                <alumno Expediente=""></alumno>
+                <alumno Expediente=""></alumno>
+            </grupo>
+        </curso>
+        <curso Nombre="">
+            <delegado Expediente=""></delegado>
+            <grupo>
+                <alumno Expediente=""></alumno>
+                <alumno Expediente=""></alumno>
+            </grupo>
+        </curso>
+    </cursos>
+</instituto>

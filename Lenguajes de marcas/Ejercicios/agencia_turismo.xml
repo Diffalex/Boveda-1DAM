@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE agencia_turismo>
+<agencia_turismo>
+    <propietario nif="">
+        <nombre></nombre>
+        <apellidos></apellidos>
+        <direccion>
+            <calle></calle>
+            <numero></numero>
+            <piso></piso>
+            <codigoPostal></codigoPostal>
+            <provincia></provincia>
+        </direccion>
+        <telefono></telefono>
+        <casa codigo=""></casa>
+    </propietario>
+
+    <cliente dni="">
+        <nombre></nombre>
+        <apellidos></apellidos>
+        <direccion>
+            <calle></calle>
+            <numero></numero>
+            <piso></piso>
+            <codigoPostal></codigoPostal>
+            <provincia></provincia>
+        </direccion>
+        <telefono></telefono>
+        <email></email>
+        <reserva codigo=""></reserva>
+    </cliente>
+
+    <casa codigo="">
+        <nombre></nombre>
+        <direccion>
+            <calle></calle>
+            <numero></numero>
+            <piso></piso>
+            <codigoPostal></codigoPostal>
+            <provincia></provincia>
+        </direccion>
+        <capacidad></capacidad>
+        <precioDiario></precioDiario>
+        <caracteristicas>
+            <caracteristica></caracteristica>
+            <caracteristica></caracteristica>
+            <caracteristica></caracteristica>
+        </caracteristicas>
+        <propietario nif=""></propietario>
+    </casa>
+
+    <reserva codigo="">
+        <fechaEntrada></fechaEntrada>
+        <fechaSalida></fechaSalida>
+        <numeroPersonas></numeroPersonas>
+        <precioTotal></precioTotal>
+        <casa codigo=""></casa>
+        <cliente dni=""></cliente>
+    </reserva>
+</agencia_turismo>

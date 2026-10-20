@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Puede haber un número determinado de reyes y reinas
+-->
+<!DOCTYPE reyes [
+    <!ELEMENT reyes (rey | reina)*>
+    <!ELEMENT rey (nombre, padre, madre)>
+    <!ELEMENT reina (nombre, padre, madre)>
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT padre (#PCDATA)>
+    <!ELEMENT madre (#PCDATA)>
+]>
+<reyes>
+  <rey>
+    <nombre>Felipe III</nombre>
+    <padre>Felipe II</padre>
+    <madre>Ana de Austria</madre>
+  </rey>
+  <reina>
+    <nombre>Juana la Loca</nombre>
+    <padre>Fernando el Católico</padre>
+    <madre>Isabel la Católica</madre>
+  </reina>
+  <rey>
+    <nombre>Carlos I</nombre>
+    <padre>Felipe el Hermoso</padre>
+    <madre>Juan la Loca</madre>
+  </rey>
+</reyes>
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE agenda SYSTEM "agenda.dtd">
+
+<agenda>
+    <propietario>
+        <identificadores>
+            <nombre></nombre>
+            <apellidos></apellidos>
+        </identificadores>
+        <direccion>
+            <calle></calle>
+            <localidad></localidad>
+          <cp></cp>
+        </direccion>
+        <telefonos>
+            <movil></movil>
+            <casa></casa>
+            <trabajo></trabajo>
+        </telefonos>
+    </propietario>
+    <contactos>
+        <persona cod_persona="">
+            <identificadores>
+                <nombre></nombre>
+                <apellidos></apellidos>
+            </identificadores>
+            <direccion>
+                <calle></calle>
+                <localidad></localidad>
+                <cp></cp>
+            </direccion>
+            <telefonos>
+                <movil></movil>
+                <casa></casa>
+                <trabajo></trabajo>
+            </telefonos>
+        </persona>
+    </contactos>
+</agenda>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recetas SYSTEM "recetas_41.dtd">
+<recetas>
+    <receta nombre="" numero_raciones="" dificultad="">
+        <ingredientes>
+            <ingrediente>
+                <nombre></nombre>
+                <cantidad unidad=""></cantidad>
+            </ingrediente>
+        </ingredientes>
+        <elaboracion>
+            <paso cod_paso=""></paso>
+        </elaboracion>
+    </receta>
+    <receta nombre="" numero_raciones="" dificultad="">
+        <ingredientes>
+            <ingrediente>
+                <nombre></nombre>
+                <cantidad unidad=""></cantidad>
+            </ingrediente>
+        </ingredientes>
+        <elaboracion>
+            <paso cod_paso=""></paso>
+        </elaboracion>
+    </receta>
+    <receta nombre="" numero_raciones="" dificultad="">
+        <ingredientes>
+            <ingrediente>
+                <nombre></nombre>
+                <cantidad unidad=""></cantidad>
+            </ingrediente>
+        </ingredientes>
+        <elaboracion>
+            <paso cod_paso=""></paso>
+        </elaboracion>
+    </receta>
+</recetas>

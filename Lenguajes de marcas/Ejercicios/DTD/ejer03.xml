@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Observar que o bien se almacena el apodo o el nombre del músico -->
+<!-- otra opción sería <!ELEMENT musico ((apodo | nombre), fechaNacimiento)>
+    ¿Cuál es la idónea? -->
+<!DOCTYPE musicos [
+    <!ELEMENT musicos (musico+)>
+    <!ELEMENT musico (apodo?, nombre?, fechaNacimiento)> 
+    <!ELEMENT apodo (#PCDATA)>
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT fechaNacimiento (#PCDATA)>
+]>
+<musicos>
+  <musico>
+    <apodo>El cura pelirrojillo (Antonio Vivaldi)</apodo>
+    <fechaNacimiento>4 de marzo de 1678</fechaNacimiento>
+  </musico>
+  <musico>
+    <nombre>Johann Sebastian Bach (El viejo peluca)</nombre>
+    <fechaNacimiento>21 de marzo de 1685</fechaNacimiento>
+  </musico>
+</musicos>
+

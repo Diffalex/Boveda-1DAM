@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    Jugadores de futbol
+jugador es un elemento vacío
+    Los atributos nombre y codigo son requeridos
+    El atributo nombre contiene una serie de nombres XML válidos separados por 
+    espacios
+-->
+<!DOCTYPE futbol [
+  <!ELEMENT futbol (jugador*)>
+  <!ELEMENT jugador EMPTY>
+  <!ATTLIST jugador nombre NMTOKENS #REQUIRED>
+  <!ATTLIST jugador codigo ID #REQUIRED>
+]>
+
+<futbol>
+  <jugador nombre="Alfredo Di Stéfano" codigo="N1"/>
+  <jugador nombre="Edson Arantes do Nascimento - Pelé" codigo="N2" />
+  <jugador nombre="Diego Armando Maradona" codigo="N3" />
+  <jugador nombre="Johan Cruyff" codigo="N4" />
+</futbol>
+

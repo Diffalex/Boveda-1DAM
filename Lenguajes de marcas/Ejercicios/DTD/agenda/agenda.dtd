@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT agenda (propietario, contactos)>
+<!ELEMENT propietario (identificadores, direccion, telefonos)>
+<!ELEMENT identificadores (nombre, apellidos)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT apellidos (#PCDATA)>
+<!ELEMENT direccion (calle, localidad, cp)>
+<!ELEMENT calle (#PCDATA)>
+<!ELEMENT localidad (#PCDATA)>
+<!ELEMENT cp (#PCDATA)>
+<!ELEMENT telefonos (movil?, casa?, trabajo?)>
+<!ELEMENT movil (#PCDATA)>
+<!ELEMENT casa (#PCDATA)>
+<!ELEMENT trabajo (#PCDATA)>
+<!ELEMENT contactos (persona+)>
+<!ELEMENT persona (identificadores, direccion, telefonos)>
+<!ATTLIST persona cod_persona CDATA #REQUIRED>

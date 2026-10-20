@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recetas SYSTEM "recetas.dtd">
+<recetas>
+    <receta numero_raciones="" dificultad="media">
+        <nombre></nombre>
+        <ingredientes>
+            <ingrediente cantidad="" unidad=""></ingrediente>
+        </ingredientes>
+        <elaboracion>
+            <paso cod_paso="p01"></paso>
+        </elaboracion>
+    </receta>
+    <receta numero_raciones="" dificultad="media">
+        <nombre></nombre>
+        <ingredientes>
+            <ingrediente cantidad="" unidad=""></ingrediente>
+        </ingredientes>
+        <elaboracion>
+            <paso cod_paso="p02"></paso>
+        </elaboracion>
+    </receta>
+</recetas>

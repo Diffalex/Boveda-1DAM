@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    Liga de Fútbol
+    Se va almacenar información relativa a partidos de una liga de fútbol.
+    El elemento partido es un elemento vacío.
+    Los atributos son requeridos y almacenan cadena se caracteres.
+-->
+<!DOCTYPE ligaDeFutbol SYSTEM "DTDs/ligaDeFutbol.dtd">
+
+<ligaDeFutbol>
+  <partido localNombre="Nottingham Presa" localGoles="0" visitanteNombre="Inter de Mitente" visitanteGoles="1" />
+  <partido localNombre="Vodka Juniors" localGoles="3"  visitanteNombre="Sparta da Risa" visitanteGoles="3" />
+  <partido localNombre="Water de Múnich" localGoles="4" visitanteNombre="Esteaua es del grifo" visitanteGoles="2" />
+</ligaDeFutbol>

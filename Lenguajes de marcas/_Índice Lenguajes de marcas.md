@@ -10,11 +10,19 @@ asignatura: Lenguajes de marcas
 ## UD1 — Lenguaje XML
 
 - [[UD1 - Atributos en XML|Análisis del uso de atributos en XML]] — teoría atributos vs elementos
-- [[Lenguajes de marcas/Ejercicios/UD1 - Ejemplos XML|Ejemplos XML resueltos]] — Biblioteca y Clínica *(en `Ejercicios/`)*
+- [[UD1 - DTD (validación de XML)|Validación de XML con DTD]] — teoría: `DOCTYPE`, elementos, cardinalidades, atributos, entidades
+- [[Lenguajes de marcas/Ejercicios/UD1 - Ejemplos XML|Documentos XML del curso]] — los 9 XML de la unidad: resueltos y plantillas *(en `Ejercicios/`)*
+- [[Lenguajes de marcas/Ejercicios/UD1 - Ejercicios DTD (1-24)|Ejercicios DTD (1-24)]] — colección de 24 DTDs *(en `Ejercicios/DTD/`)*
+- [[Lenguajes de marcas/Ejercicios/UD1 - Supuesto agenda (DTD)|Supuesto agenda (DTD)]] — actividad 4.3 *(en `Ejercicios/DTD/agenda/`)*
+- [[Lenguajes de marcas/Ejercicios/UD1 - Supuesto recetas (DTD)|Supuesto recetas (DTD)]] — actividades 4.1 y 4.2 *(en `Ejercicios/DTD/recetas/`)*
 - [[Lenguajes de marcas/Ejercicios/UD1 - Actividad presencial 3 (agencia de turismo)|Actividad presencial 3 (agencia de turismo)]] — pendiente *(en `Ejercicios/`)*
 - [[Lenguajes de marcas/Ejercicios/UD1 - Supuesto tienda (XML)|Supuesto tienda (XML)]] — plantillas `tienda.xml` y `curriculum.xml` *(en `Ejercicios/`)*
 
-> Supuestos sin rellenar: `Alquileres.xml`, `relaciones.xml`, `agencia_turismp.xml` e `instituto.xml` (práctica pendiente). Recordatorio de clase: estas actividades se entregan **a modo plantilla** (estructura sin datos).
+> [!note] Plantillas sin rellenar
+> `agencia_turismo.xml`, `Alquileres.xml`, `biblioteca_fp.xml`, `instituto.xml`, `curriculum.xml` y `tienda.xml` se entregan **a modo plantilla** (estructura sin datos). `relaciones.xml` es un ejemplo didáctico de cardinalidades, no una práctica pendiente.
+
+> [!tip] Material fuente
+> En `Anexos/`: `Lenguaje_DTD_Resumen.pdf`, `descripcionAgenda.pdf`, `Supuesto_recetas.pdf`, `supuestoRecetasValidacion.pdf`, `Analisis_Uso_de_Atributos_en_XML.pdf`, `agencia_turismo.pdf` y los ZIP de los supuestos.
 
 ## Unidades previstas
 

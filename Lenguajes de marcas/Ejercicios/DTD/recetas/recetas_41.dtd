@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT recetas (receta*)>
+<!ELEMENT receta (ingredientes, elaboracion)>
+<!ATTLIST receta nombre CDATA #REQUIRED numero_raciones CDATA #REQUIRED dificultad CDATA #REQUIRED>
+<!ELEMENT ingredientes (ingrediente+)>
+<!ELEMENT ingrediente (nombre, cantidad)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT cantidad (#PCDATA)>
+<!ATTLIST cantidad unidad CDATA #REQUIRED>
+<!ELEMENT elaboracion (paso*)>
+<!ELEMENT paso (#PCDATA)>
+<!ATTLIST paso cod_paso CDATA #REQUIRED>

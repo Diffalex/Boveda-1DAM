@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE empresa>
+<empresa CIF="">
+        <nombre></nombre>
+        <telefono_fijo></telefono_fijo>
+        <fax></fax>
+    <vehiculos>
+        <vehiculo Matricula="">
+            <marca></marca>
+            <modelo></modelo>
+            <combustible></combustible>
+            <carroceria></carroceria>
+            <precio_alquiler></precio_alquiler>
+        </vehiculo>    
+        <vehiculo Matricula="">
+            <marca></marca>
+            <modelo></modelo>
+            <combustible></combustible>
+            <carroceria></carroceria>
+            <precio_alquiler></precio_alquiler>
+        </vehiculo>    
+        <vehiculo Matricula="">
+            <marca></marca>
+            <modelo></modelo>
+            <combustible></combustible>
+            <carroceria></carroceria>
+            <precio_alquiler></precio_alquiler>
+        </vehiculo>
+    </vehiculos>
+    <clientes>
+        <cliente DNI="">
+            <nombre_cliente></nombre_cliente>
+            <apellidos></apellidos>
+            <domicilio>
+                <via></via>
+                <numero></numero>
+                <piso></piso>
+                <planta></planta>
+                <codigo_postal></codigo_postal>
+                <poblacion></poblacion>
+                <provincia></provincia>
+            </domicilio>
+            <telefono></telefono>                
+        </cliente>
+        <cliente DNI="">
+            <nombre_cliente></nombre_cliente>
+            <apellidos></apellidos>
+            <domicilio>
+                <via></via>
+                <numero></numero>
+                <piso></piso>
+                <planta></planta>
+                <codigo_postal></codigo_postal>
+                <poblacion></poblacion>
+                <provincia></provincia>
+            </domicilio>
+            <telefono></telefono>                
+        </cliente>
+    </clientes>
+    <alquileres_vehiculos>
+        <alquiler_vehiculo matricula="" DNI="" fecha="" hora="">
+            <num_dias></num_dias>
+            <precio></precio>
+        </alquiler_vehiculo> 
+    </alquileres_vehiculos>
+</empresa>

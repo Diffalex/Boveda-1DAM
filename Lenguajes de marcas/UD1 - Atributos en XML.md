@@ -74,7 +74,8 @@ No deben usarse cuando la información forma parte **esencial del contenido** o 
 
 ## Ver también
 
-- [[Lenguajes de marcas/Ejercicios/UD1 - Ejemplos XML|Ejemplos XML]] — Biblioteca y Clínica resueltas
+- [[Lenguajes de marcas/Ejercicios/UD1 - Ejemplos XML|Documentos XML del curso]] — Biblioteca y Clínica resueltas, más plantillas
+- [[UD1 - DTD (validación de XML)|Validación con DTD]] — cómo declarar esos atributos en un DTD
 - [[_Índice Lenguajes de marcas]] — índice de la asignatura
 
 ---

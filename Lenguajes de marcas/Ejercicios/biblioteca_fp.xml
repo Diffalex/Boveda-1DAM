@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblioteca_fp>
+<biblioteca>
+    <autores>
+        <autor id_autor="">
+            <nombre></nombre>
+            <nacionalidad></nacionalidad>
+        </autor>
+        <autor id_autor="">
+            <nombre></nombre>
+            <nacionalidad></nacionalidad>
+        </autor>
+        <autor id_autor="">
+            <nombre></nombre>
+            <nacionalidad></nacionalidad>
+        </autor>
+        <autor id_autor="">
+            <nombre></nombre>
+            <nacionalidad></nacionalidad>
+        </autor>
+    </autores>
+
+    <libros>
+        <libro id_libro="">
+            <titulo></titulo>
+            <anio></anio>
+            <genero></genero>
+            <editorial></editorial>
+            <autores>
+                <autor ref_autor=""/>
+            </autores>
+        </libro>
+        <libro id_libro="">
+            <titulo></titulo>
+            <anio></anio>
+            <genero></genero>
+            <editorial></editorial>
+            <autores>
+                <autor ref_autor=""/>
+            </autores>
+        </libro>
+        <libro id_libro="">
+            <titulo></titulo>
+            <anio></anio>
+            <genero></genero>
+            <editorial></editorial>
+            <autores>
+                <autor ref_autor=""/>
+            </autores>
+        </libro>
+        <libro id_libro="">
+            <titulo></titulo>
+            <anio></anio>
+            <genero></genero>
+            <editorial></editorial>
+            <autores>
+                <autor ref_autor=""/>
+            </autores>
+        </libro>
+    </libros>
+
+    <alumnos>
+        <alumno id_alumno="">
+            <nombre></nombre>
+            <curso></curso>
+        </alumno>
+        <alumno id_alumno="">
+            <nombre></nombre>
+            <curso></curso>
+        </alumno>
+        <alumno id_alumno="">
+            <nombre></nombre>
+            <curso></curso>
+        </alumno>
+    </alumnos>
+
+    <prestamos>
+        <prestamo id_prestamo="">
+            <alumno ref_alumno=""/>
+            <libro ref_libro=""/>
+            <fecha_prestamo></fecha_prestamo>
+            <fecha_devolucion></fecha_devolucion>
+        </prestamo>
+        <prestamo id_prestamo="">
+            <alumno ref_alumno=""/>
+            <libro ref_libro=""/>
+            <fecha_prestamo></fecha_prestamo>
+            <fecha_devolucion></fecha_devolucion>
+        </prestamo>
+        <prestamo id_prestamo="">
+            <alumno ref_alumno=""/>
+            <libro ref_libro=""/>
+            <fecha_prestamo></fecha_prestamo>
+            <fecha_devolucion></fecha_devolucion>
+        </prestamo>
+        <prestamo id_prestamo="">
+            <alumno ref_alumno=""/>
+            <libro ref_libro=""/>
+            <fecha_prestamo></fecha_prestamo>
+            <fecha_devolucion></fecha_devolucion>
+        </prestamo>
+    </prestamos>
+</biblioteca>

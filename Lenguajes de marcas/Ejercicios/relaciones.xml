@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+En este fichero xml vamos a ver diferentes formas de relacionar elementos.
+Y por analogía, vamos a ver que tipo de cardinalidad pueden tener en referencia
+a bases de datos, siempre, claro está, teniendo en cuenta que son herramientas 
+diferentes.
+-->
+<relaciones>
+    <!--Supuesto 1:
+    declarar los elementos necesarios para almacenar los pedidos que hace un cliente.
+    En este caso, es como si tuviéramos una relación de uno a muchos, un cliente
+    puede efectuar uno a más pedidos.
+    -->
+    <cliente NIF="">
+        <nombre></nombre>
+        <pedidos>
+            <pedido cod_pedido="">
+                <fecha></fecha>
+                <total></total>
+            </pedido>
+        </pedidos>
+    </cliente>
+    <!--Supuesto 2:
+    declarar los elementos necesarios para almacenar información de una empresa.
+    Los empleados de esa empresa pertenecen a un sólo departamento.
+    En este caso, aquí tenemos otro ejemplo de una relación de uno a muchos de
+    departamento a empleados
+    -->
+    <empresa>
+        <empleados>
+            <empleado NIF="">
+                <nombre></nombre>
+                <trabaja_en cod_dpto="" />
+            </empleado>    
+        </empleados>
+        <departamentos>
+            <departamento cod_dpto="">
+                <nombre></nombre>
+                <jefe_dpto NIF="" />
+                <ubicacion></ubicacion>
+                <num_empleados></num_empleados>
+            </departamento>            
+        </departamentos>
+    </empresa>
+    <!--Supuesto 3:
+    declarar los elementos necesarios para almacenar información acerca de las 
+    inscripciones de alumnos en una serie de ectividades que organiza la Universidad.
+    En este caso, es como si tuviéramos una relación de muchos a muchos, un alumno 
+    se puede inscribir en una o más actividades y en una actividad, puede haber 
+    inscritos uno o más alumnos. En este sentido, puede establecerse un mínimo para
+    que la actividad pueda llevarse a cabo y lógicamente, habrá un máximo de alummos en 
+    cada actividad
+    -->
+    <universidad>
+        <estudiantes>
+            <estudiante NIF="">
+                <nombre></nombre>
+            </estudiante>
+        </estudiantes>
+        <actividades>
+            <actividad cod_actividad="">
+                <nombre></nombre>
+                <minimo></minimo>
+                <maximo></maximo>
+            </actividad>
+        </actividades>
+        <inscripciones>
+            <inscripcion cod_actividad="" NIF="" fecha="">               
+                <matricula></matricula>
+                <mensualidad></mensualidad>
+            </inscripcion>
+        </inscripciones>
+    </universidad>
+    <!--Supuesto 4:
+    declarar los elementos necesarios para almacenar información acerca de los 
+    vehículos que conducen los empleados de un empresa. Cada empleado de la 
+    empresa conduce un coche y ese coche sólo puede ser conducido por el mismo
+    empleado, es decir, que la empresa asigna coches a empleados de forma única.
+    En este caso tenemos una reación de uno a uno
+    -->
+    <empresa CIF="">
+        <empleados>
+            <empleado cod_empleado="">
+                <nombre></nombre>
+                <apellidos></apellidos>
+                <direccion></direccion>
+                <ciudad></ciudad>
+                <conduce cod_coche="" />
+            </empleado>
+        </empleados>
+        <coches>
+            <coche cod_coche="">
+                <num_licencia></num_licencia>
+                <marca></marca>
+                <modelo></modelo>
+                <anio_coche></anio_coche>
+            </coche>
+        </coches>
+    </empresa>
+</relaciones>
+

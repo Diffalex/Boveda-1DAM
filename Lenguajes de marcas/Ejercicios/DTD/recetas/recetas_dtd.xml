@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recetas SYSTEM "recetas.dtd">
+<recetas>
+    <receta numero_raciones="4" dificultad="media"> 
+        <nombre>Ensalada de tomate</nombre>
+        <ingredientes>
+            <ingrediente cantidad="3" unidad="piezas">Tomates maduros</ingrediente>
+            <ingrediente cantidad="100" unidad="mililitros">Aceite de oliva virgen extra</ingrediente>
+            <ingrediente cantidad="10" unidad="gramos">Sal</ingrediente>
+        </ingredientes>
+        <elaboracion>
+            <paso cod_paso="et1">Lavar los tomates.</paso>
+            <paso cod_paso="et2">Cortarlos en rodajas.</paso>
+            <paso cod_paso="et3">Aliñar con aceite y sal.</paso>
+        </elaboracion>
+    </receta>
+    
+    <receta numero_raciones="2" dificultad="baja">
+        <nombre>Sopa de fideos</nombre>
+        <ingredientes>
+            <ingrediente cantidad="50" unidad="gramos">Fideos</ingrediente>
+            <ingrediente cantidad="1" unidad="litros">Agua</ingrediente>
+            <ingrediente cantidad="5" unidad="gramos">Sal</ingrediente>
+        </ingredientes>
+        <elaboracion>
+            <paso cod_paso="sf1">Hervir el agua con sal en una olla.</paso>
+            <paso cod_paso="sf2">Añadir los fideos y cocinar durante 10 minutos.</paso>
+            <paso cod_paso="sf3">Servir caliente.</paso>
+        </elaboracion>
+    </receta>
+    
+    <receta numero_raciones="1" dificultad="baja">
+        <nombre>Sandwich de jamón y queso</nombre>
+        <ingredientes>
+            <ingrediente cantidad="2" unidad="piezas">Rebanadas de pan</ingrediente>
+            <ingrediente cantidad="1" unidad="piezas">Lonja de jamón</ingrediente>
+            <ingrediente cantidad="1" unidad="piezas">Lonja de queso</ingrediente>
+        </ingredientes>
+        <elaboracion>
+            <paso cod_paso="sj1">Colocar el jamón y el queso entre las rebanadas de pan.</paso>
+            <paso cod_paso="sj2">Servir inmediatamente.</paso>
+        </elaboracion>
+    </receta>
+    
+    <receta numero_raciones="4" dificultad="baja">
+        <nombre>Ensalada de pepino</nombre>
+        <ingredientes>
+            <ingrediente cantidad="1" unidad="piezas">Pepino</ingrediente>
+            <ingrediente cantidad="5" unidad="gramos">Sal</ingrediente>
+            <ingrediente cantidad="30" unidad="mililitros">Aceite de oliva</ingrediente>
+        </ingredientes>
+        <elaboracion>
+            <paso cod_paso="ep1">Pelar y cortar el pepino en rodajas.</paso>
+            <paso cod_paso="ep2">Aliñar con sal y aceite de oliva.</paso>
+            <paso cod_paso="ep3">Servir frío.</paso>
+        </elaboracion>
+    </receta>
+
+    <receta numero_raciones="2" dificultad="alta">
+        <nombre>Tortilla de patatas</nombre>
+        <ingredientes>
+            <ingrediente>Patatas</ingrediente>
+            <ingrediente cantidad="4">Huevos</ingrediente>
+            <ingrediente unidad="pizca">Sal</ingrediente>
+        </ingredientes>
+        <elaboracion>
+            <paso cod_paso="tp1">Pelar, cortar y freír las patatas; batir los huevos y cuajar la tortilla.</paso>
+        </elaboracion>
+    </receta>
+
+    <receta numero_raciones="1">
+        <nombre>Infusión</nombre>
+        <ingredientes>
+            <ingrediente>Agua</ingrediente>
+        </ingredientes>
+        <elaboracion>
+            <paso cod_paso="in1">Calentar el agua y añadir la hierba.</paso>
+        </elaboracion>
+    </receta>
+</recetas>

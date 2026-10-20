@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    Libro
+    libro es un elemento vacío
+    El atributo autor de libro está formado por nombres XML válidos separados
+    por espacios y es requerido
+-->
+<!DOCTYPE libro [
+  <!ELEMENT libro EMPTY>
+  <!ATTLIST libro autor NMTOKENS #REQUIRED>
+]>
+
+<libro autor="Mario Vargas Llosa" />
+

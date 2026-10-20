@@ -13,7 +13,7 @@ Apuntes de las asignaturas del curso:
 - **Programación** (Java): UD1 completa, UD2 (condicionales, `switch` y bucles) y UD3 (POO: clases, objetos, métodos, fechas y excepciones).
 - **Sistemas informáticos**: T1 (fundamentos y máquinas virtuales) y T2 (sistemas operativos) con ejercicios y test resueltos.
 - **Bases de datos**: UD1 (ficheros y SGBD), UD2 (modelo Entidad-Relación) y UD3 (paso a tablas y normalización).
-- **Lenguajes de marcas**: UD1 (XML).
+- **Lenguajes de marcas**: UD1 (XML, atributos, DTD, ejercicios y supuestos de agenda/recetas).
 - **Entornos de desarrollo**: UD1.
 - **Sostenibilidad** y **Prevención de riesgos laborales**: UD1 de cada módulo.
 - **Digitalización**: pendiente de contenido.
