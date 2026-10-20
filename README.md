@@ -10,7 +10,7 @@ La bóveda también se publica como web estática en:
 
 Apuntes de las asignaturas del curso:
 
-- **Programación** (Java): UD1 completa y UD2 (condicionales, `switch` y bucles) con ejercicios resueltos.
+- **Programación** (Java): UD1 completa, UD2 (condicionales, `switch` y bucles) y UD3 (POO: clases, objetos, métodos, fechas y excepciones).
 - **Sistemas informáticos**: T1 (fundamentos y máquinas virtuales) y T2 (sistemas operativos) con ejercicios y test resueltos.
 - **Bases de datos**: UD1 (ficheros y SGBD), UD2 (modelo Entidad-Relación) y UD3 (paso a tablas y normalización).
 - **Lenguajes de marcas**: UD1 (XML).

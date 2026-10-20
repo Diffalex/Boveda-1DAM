@@ -27,13 +27,16 @@ asignatura: Programación
 - [[Programación/Ejercicios/UD2 - Ejemplos if-else|Ejemplos if/else]] *(en `Ejercicios/`)*
 - [[Programación/Ejercicios/UD2 - Ejemplos bucles y switch|Ejemplos bucles y switch]] *(en `Ejercicios/`)*
 
+## UD3 — Utilización de objetos (POO)
+
+- [[UD3 - Utilización de objetos (POO)|Utilización de objetos (POO)]]
+
 ## Unidades pendientes
 
 | Unidad | Temas |
 |--------|-------|
-| UD3 | Expresiones y operadores |
-| UD4 | Métodos y clases |
-| UD5 | Arrays |
+| UD4 | Pendiente de material |
+| UD5 | Pendiente de material |
 
 ---
 
