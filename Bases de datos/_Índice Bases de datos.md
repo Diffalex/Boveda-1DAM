@@ -22,17 +22,16 @@ asignatura: Bases de datos
 
 > Fuente en `Anexos/`: `tema2-main.zip`.
 
-### UD3 — Paso a tablas y normalización
+### UD3 — Paso a tablas, normalización y SQL (DDL)
 
-- [[UD3 - Paso a tablas y normalización|Paso a tablas y normalización]] — modelo relacional, conversión E/R a tablas (1:1, 1:N, N:M, casos especiales) y formas normales (1FN-3FN).
+- [[UD3 - Paso a tablas y normalización|Paso a tablas, normalización y SQL (DDL)]] — modelo relacional, claves e integridad, conversión E/R a tablas, formas normales y creación física con SQL (DDL, `CREATE TABLE`, restricciones y MySQL).
 
-> Fuente en `Anexos/`: `tema2-main.zip`.
+> Fuentes en `Anexos/`: `tema2-main.zip` (paso a tablas y normalización) y `tema3-main.zip` (SQL y DDL).
 
 ## Unidades previstas
 
 | Unidad | Temas |
 |--------|-------|
-| UD4 | Lenguaje SQL |
 | UD5 | Administración y mantenimiento |
 
 ---
