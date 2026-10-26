@@ -48,16 +48,18 @@ Es el conjunto de fases por las que pasa un programa desde que se plantea su nec
 
 | Fase | Qué se hace |
 |---|---|
-| **Análisis de requisitos** | Recoger y definir qué debe hacer el sistema |
-| **Diseño** | Decidir arquitectura, módulos, interfaces y datos |
-| **Codificación** | Escribir el código fuente |
-| **Pruebas** | Comprobar que funciona y cumple los requisitos |
-| **Despliegue** | Instalar y poner el sistema en producción |
-| **Mantenimiento** | Corregir errores, adaptar y mejorar el sistema |
+| **Fase inicial** | Estudio de viabilidad: idea, costes, plazos y recursos |
+| **Análisis** | Recoger y documentar los requisitos del cliente |
+| **Diseño** | Decidir arquitectura, base de datos, interfaces y módulos |
+| **Implementación** | Escribir el código e integrar los módulos |
+| **Pruebas** | Comprobar que cumple los requisitos y no tiene errores |
+| **Explotación** | Instalar, poner en marcha y formar a los usuarios |
+| **Mantenimiento** | Corregir errores y mejorar el software en producción |
+| **Retirada** | Fin del soporte y migración de datos a otro sistema |
 
 **6. Explica brevemente en qué consiste el modelo en cascada.**
 
-Es un modelo **secuencial**: cada fase empieza cuando termina la anterior. Primero se analizan los requisitos, luego se diseña, se codifica, se prueba, se despliega y se mantiene. Se documenta mucho y se planifica con antelación.
+Es un modelo **secuencial**: cada fase empieza cuando termina la anterior. Parte del estudio de viabilidad (fase inicial), sigue con análisis, diseño, implementación, pruebas, explotación y mantenimiento, y termina con la retirada. Se documenta mucho y se planifica con antelación.
 
 **7. Ventajas e inconvenientes del modelo en cascada.**
 
@@ -121,7 +123,7 @@ Kanban es un sistema visual de gestión del flujo: se visualizan las tareas en c
 
 **16. SCRUM: explica cómo funciona.**
 
-Scrum trabaja en **sprints** de 2-4 semanas. El **Product Owner** prioriza el Product Backlog; el equipo elige tareas para el Sprint Backlog en la **Sprint Planning**. Cada día se hace un **Daily Scrum** de 15 minutos. Al final del sprint se entrega un incremento y se revisa en la **Sprint Review**; después, en la **Sprint Retrospective**, el equipo analiza cómo mejorar.
+Scrum trabaja en **sprints** de 1-4 semanas. El **Product Owner** prioriza el Product Backlog; el equipo elige tareas para el Sprint Backlog en la **Sprint Planning**. Cada día se hace un **Daily Scrum** de 15 minutos. Al final del sprint se entrega un incremento y se revisa en la **Sprint Review**; después, en la **Sprint Retrospective**, el equipo analiza cómo mejorar.
 
 **17. SCRUM: define Product backlog y Sprint backlog.**
 
@@ -186,9 +188,12 @@ Sí. Es el resultado de compilar el código fuente con `javac`, pero no es códi
 
 **28. Pon un ejemplo de lenguaje de bajo nivel, nivel medio y alto nivel.**
 
-- **Bajo nivel:** ensamblador (ASM).
-- **Nivel medio:** C.
-- **Alto nivel:** Python.
+- **Bajo nivel:** lenguaje máquina (código binario).
+- **Nivel medio:** ensamblador (ASM, con mnemotécnicos).
+- **Alto nivel:** C, Java o Python.
+
+> [!note] Clasificación del curso
+> En los apuntes oficiales, el **lenguaje máquina** es bajo nivel, el **ensamblador** es medio y **C/Java/Python** son alto nivel. Otros materiales llaman “bajo” al ensamblador y “medio” a C; aquí seguimos la clasificación de los apuntes.
 
 **29. ¿Qué paradigma de programación siguen C, C++, SQL, Java, JavaScript, Lisp y Prolog?**
 
