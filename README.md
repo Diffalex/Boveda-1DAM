@@ -14,7 +14,7 @@ Apuntes de las asignaturas del curso:
 - **Sistemas informáticos**: T1 (fundamentos y máquinas virtuales) y T2 (sistemas operativos) con ejercicios y test resueltos.
 - **Bases de datos**: UD1 (ficheros y SGBD), UD2 (modelo Entidad-Relación), UD3 (paso a tablas y normalización) y UD4 (SQL/DDL).
 - **Lenguajes de marcas**: UD1 (XML, atributos, DTD, ejercicios y supuestos de agenda/recetas).
-- **Entornos de desarrollo**: UD1.
+- **Entornos de desarrollo**: UD1 (introducción, cuestiones previas, ED01 resueltas y prácticas 01 de compilación e IntelliJ).
 - **Sostenibilidad** y **Prevención de riesgos laborales**: UD1 de cada módulo.
 - **Digitalización**: pendiente de contenido.
 
